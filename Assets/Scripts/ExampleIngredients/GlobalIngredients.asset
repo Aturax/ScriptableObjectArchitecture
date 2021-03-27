@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ac5e0cabef3a1c4aac5857c529a49a6, type: 3}
+  m_Name: GlobalIngredients
+  m_EditorClassIdentifier: 
+  Ingredients:
+  - {fileID: 11400000, guid: 45e072b2e0675fd47a42f4353e3d89c9, type: 2}
+  - {fileID: 11400000, guid: 88f21735bc6a9b044878a2849947b836, type: 2}
+  - {fileID: 11400000, guid: 95297183a08f0f24892422d9d5b525ba, type: 2}
