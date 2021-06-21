@@ -3,9 +3,8 @@ using UnityEngine;
 public class GenericVariable<T> : ScriptableObject
 {
     public T InitialValue = default;
-
     T _value = default;
-
+    
     public event System.Action OnValueChanged = () => { };
 
     public T Value
