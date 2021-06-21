@@ -13,6 +13,7 @@ public class GenericVariable<T> : ScriptableObject
         set
         {
             _value = value;
+            Debug.Log("CAMBIA");
             OnValueChanged();
         }
     }
